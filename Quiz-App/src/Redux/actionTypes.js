@@ -1,0 +1,5 @@
+export const FETCH = "FETCH"
+export const SUBMIT = "SUBMIT"
+export const SKIP = "SKIP"
+export const SUCCESS = "SUCCESS"
+export const FAIL = "FAIL"
